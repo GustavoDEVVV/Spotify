@@ -1,1 +1,1 @@
-# Spotify
+Esse é um projeto muito bacana desenvolvido por mim. Ele imita algo como uma tela do aplicativo Spotify. É um ótimo projeto para quem está iniciando e quer fazer alguns projetos para colocar no portfólio ou praticar um pouco de HTML e CSS. Espero que gostem! 🔥😍❤️
